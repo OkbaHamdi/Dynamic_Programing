@@ -13,7 +13,7 @@ Let's enjoy the journey!</br>
 1. [E - Knapsack 2](/Introductory%20Problems/Permutations.cpp)
 
 **Bottom-Up**
-1. [A - Frog 1](/Educational%20DP%20Contest/bottom-up/A%20-20%Frog%201.cpp)
+1. [A - Frog 1](/Educational%20DP%20Contest/bottom-up/A%20-%20Frog%201.cpp)
 1. [B - Frog 2](/Introductory%20Problems/Missing%20Number.cpp)
 1. [C - Vacation](/Introductory%20Problems/Repetitions.cpp)
 1. [D - Knapsack 1](/Introductory%20Problems/Increasing%20Array.cpp)
