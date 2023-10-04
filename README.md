@@ -6,11 +6,11 @@ Let's enjoy the journey!</br>
 
 ## Educational DP Contest
 **Top-Down**
-1. [A - Frog 1](/Introductory%20Problems/Weird%20Algorithm.cpp)
-1. [B - Frog 2](/Introductory%20Problems/Missing%20Number.cpp)
-1. [C - Vacation](/Introductory%20Problems/Repetitions.cpp)
-1. [D - Knapsack 1](/Introductory%20Problems/Increasing%20Array.cpp)
-1. [E - Knapsack 2](/Introductory%20Problems/Permutations.cpp)
+1. [A - Frog 1](/Educational%20DP%20Contest/top-down/A%20-%20Frog%201.cpp)
+1. [B - Frog 2](/Educational%20DP%20Contest/top-down/B%20-%20Frog%202.cpp)
+1. [C - Vacation](/Educational%20DP%20Contest/top-down/C%20-%20Vacation.cpp)
+1. [D - Knapsack 1](/Educational%20DP%20Contest/top-down/D%20-%20Knapsack%201.cpp)
+1. [E - Knapsack 2](Educational%20DP%20Contest/top-down/E%20-%20Knapsack%202.cpp)
 
 **Bottom-Up**
 1. [A - Frog 1](/Educational%20DP%20Contest/bottom-up/A%20-%20Frog%201.cpp)
